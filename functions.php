@@ -11,6 +11,6 @@ function storefront_child_theme_enqueue_styles() {
 add_action( 'wp_enqueue_scripts', 'storefront_child_theme_enqueue_styles' );
 
 /**
- * Note: DO NOT! alter or remove the code above this text and only add your custom functions below here.
+ * Note: DO NOT! alter or remove the code above this text and only add your custom PHP functions below this text.
  */
 
