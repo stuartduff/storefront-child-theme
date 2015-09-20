@@ -18,9 +18,9 @@ This child theme is designed to be used as a starter theme for the WooCommerce S
 * [StoreFront Child Themes](http://www.woothemes.com/product-category/themes/storefront-child-theme-themes/)
 * [StoreFront Extensions](http://www.woothemes.com/product-category/storefront-extensions/)
 
-You shuold add any custom PHP to the child themes functions.php file whilst any custom CSS should be added to the child themes style.css file.
+Custom PHP that you write should be added to the child themes functions.php file whilst any custom CSS should be added to the child themes style.css file.
 
-There is also a style.scss file that can be used if you wish to write [SASS - Syntactically Awesome Style Sheets](http://sass-lang.com/) based styles which can then be compiled into CSS using an app like [CodeKit](https://incident57.com/codekit/) for OSX or [PrePros](https://prepros.io/) for Windows.
+There is also a style.scss file that can be used if you wish to write [SASS - Syntactically Awesome Style Sheets](http://sass-lang.com/) based styles which can then be compiled into the style.css file using an app like [CodeKit](https://incident57.com/codekit/) for OSX or [PrePros](https://prepros.io/) for Windows.
 
 The blank child theme itself has no functionality and if you would like to learn more about child themes for WordPress see this documentation below.
 
