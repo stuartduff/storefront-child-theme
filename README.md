@@ -15,8 +15,8 @@ This child theme is designed to be used as a starter theme for the WooCommerce S
 
 * [Download WooCommerce StoreFront Theme](https://wordpress.org/themes/storefront/)
 * [StoreFront Documentation](http://docs.woothemes.com/documentation/themes/storefront/)
-* [StoreFront Child Themes](http://www.woothemes.com/product-category/themes/storefront-child-theme-themes/)
-* [StoreFront Extensions](http://www.woothemes.com/product-category/storefront-extensions/)
+* [StoreFront Child Themes](https://woocommerce.com/product-category/themes/storefront-child-theme-themes/)
+* [StoreFront Extensions](https://woocommerce.com/product-category/storefront-extensions/)
 
 Custom PHP that you write should be added to the child themes functions.php file whilst any custom CSS should be added to the child themes style.css file.
 
