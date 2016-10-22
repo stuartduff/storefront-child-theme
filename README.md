@@ -14,7 +14,7 @@ The StoreFront Child Theme is a starter blank child theme for WooThemes StoreFro
 This child theme is designed to be used as a starter theme for the WooCommerce StoreFront theme which you can download for free below.
 
 * [Download WooCommerce StoreFront Theme](https://wordpress.org/themes/storefront/)
-* [StoreFront Documentation](http://docs.woothemes.com/documentation/themes/storefront/)
+* [StoreFront Documentation](http://docs.woocommerce.com/documentation/themes/storefront/)
 * [StoreFront Child Themes](https://woocommerce.com/product-category/themes/storefront-child-theme-themes/)
 * [StoreFront Extensions](https://woocommerce.com/product-category/storefront-extensions/)
 
