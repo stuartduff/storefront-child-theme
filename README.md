@@ -9,7 +9,7 @@ The StoreFront Child Theme is a starter blank child theme for WooThemes StoreFro
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-## Useage
+## Usage
 
 This child theme is designed to be used as a starter theme for the WooCommerce StoreFront theme which you can download for free below.
 
