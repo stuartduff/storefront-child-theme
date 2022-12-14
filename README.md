@@ -24,5 +24,5 @@ There is also a style.scss file within the /assets/sass/ folder that can be used
 
 The blank child theme itself has no functionality and if you would like to learn more about child themes for WordPress see this documentation below.
 
-* [WordPress Child Themes](https://codex.wordpress.org/Child_Themes)
+* [WordPress Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes)
 
